@@ -1,0 +1,1 @@
+Solutions to loops and conditionals tasks
