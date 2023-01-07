@@ -18,7 +18,6 @@ void reverse_listint(listint_t **head)
 		prev = current;
 		current = next;
 	}
-
 	*head = prev;
 }
 
@@ -66,6 +65,5 @@ int is_palindrome(listint_t **head)
 
 	if (!dup)
 		return (1);
-
 	return (0);
 }
