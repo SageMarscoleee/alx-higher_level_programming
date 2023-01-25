@@ -1,0 +1,1 @@
+Solutions to tasks Classes and Objects
