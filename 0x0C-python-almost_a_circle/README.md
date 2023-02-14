@@ -1,0 +1,1 @@
+solution to tasks on almost a circle
